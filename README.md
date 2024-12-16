@@ -69,7 +69,7 @@
      ![telegram-cloud-photo-size-2-5404498747926374339-y](https://github.com/user-attachments/assets/527ab9b3-7881-4f70-9cd4-e465fdef18a3)
 
 
-## Задание 2 - Использование Git Flow в проекте
+## Задание 2 - Использование Git Flow в проекте. Решение
 
 1. Убедились, что Git Flow установлен на локальной машине:
 
