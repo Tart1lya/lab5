@@ -131,7 +131,7 @@ git commit -m "Обновлена версия для релиза v1.0.0"
 
 ```
 
-8. Завершаем релиз и объединяем его с ветками "develop" и "main":
+8. Завершаем релиз и объединяем его с ветками "develop" и "master":
 
 ```
 git flow release finish v1.0.0
@@ -150,7 +150,7 @@ git add file_with_error.py
 git commit -m "Исправлена критическая ошибка"
 ```
 
-11. Завершаем hotfix и объединияем его с ветками "develop" и "main":
+11. Завершаем hotfix и объединияем его с ветками "develop" и "master":
 
 ```
 git flow hotfix finish hotfix-1.0.1
@@ -160,7 +160,7 @@ git flow hotfix finish hotfix-1.0.1
 
 ```
 git push origin develop
-git push origin main
+git push origin master
 
 ```
 ![telegram-cloud-photo-size-2-5404498747926374386-y](https://github.com/user-attachments/assets/27e4a5d1-9e5e-419a-a272-06fb0b1c0d56)
